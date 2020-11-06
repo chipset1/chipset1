@@ -4,39 +4,32 @@ here are some of my projects
 
 ## Clojure / Clojurescript:
 
-[quil-sketches](https://github.com/chipset1/quil-sketches)
-
+[quil-sketches](https://github.com/chipset1/quil-sketches):
 generative art sketches made with the quil library.
 
-[rabbit-dungeon-shooter](https://github.com/chipset1/rabbit-dungeon-shooter/)
-
+[rabbit-dungeon-shooter](https://github.com/chipset1/rabbit-dungeon-shooter/):
 Small Binding of Issac clone made with Clojurescript
 
 ## Emacs Config
 
-[.spacemacs.d](https://github.com/chipset1/.spacemacs.d)
-
+[.spacemacs.d](https://github.com/chipset1/.spacemacs.d):
 My Spacemacs config
 
 ## Games
 
 ### Made with p5.js
-[major-jam-2](https://github.com/chipset1/major-jam-2)
-
+[major-jam-2](https://github.com/chipset1/major-jam-2):
 A limited pokemon game
 
-[xblast](https://github.com/chipset1/xblast)
-
+[xblast](https://github.com/chipset1/xblast):
 A one-botton shooter
 
-[ld38](https://github.com/chipset1/ld38)
-
+[ld38](https://github.com/chipset1/ld38):
 My Ludum dare 38 submission
 
 ### Made with Twine
 
-[scifi-Final](https://github.com/chipset1/scifi-Final)
-
+[scifi-Final](https://github.com/chipset1/scifi-Final):
 Text adventure for science fiction elective class
 
 ### Game a Week Challenge
@@ -67,4 +60,5 @@ week 4 and 5 were not completed I think
 
 ## Generative art
 
-[P5_sketches](https://github.com/chipset1/P5_sketches)
+[P5_sketches](https://github.com/chipset1/P5_sketches):
+My Proccessing sketches
