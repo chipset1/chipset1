@@ -10,11 +10,6 @@ Small Binding of Issac clone made with Clojurescript
 [quil-sketches](https://github.com/chipset1/quil-sketches):
 generative art sketches made with the quil library.
 
-## Emacs Config
-
-[.spacemacs.d](https://github.com/chipset1/.spacemacs.d):
-My Spacemacs config
-
 ## Games
 
 ### Made with p5.js
