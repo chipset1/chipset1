@@ -2,7 +2,7 @@
 
 here are some of my projects
 
-#Latest
+# Latest
 
 [I"m tired of killing bad guys](https://github.com/chipset1/im-tired-love-letter-vn/)
 A visual novel in the love letter engine (Love2D)
